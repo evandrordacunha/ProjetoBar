@@ -1,0 +1,10 @@
+Cliente: MIGUEL
+
+CPF: 22222222222
+
+Idade: 35
+
+Gênero: MASCULINO
+
+Número de Sócio: 2
+
